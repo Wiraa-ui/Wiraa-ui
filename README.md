@@ -57,9 +57,11 @@ I'm a passionate developer who loves creating beautiful and functional user inte
 
 ## 🌟 Featured Projects
 
-### 🎨 [Project Name 1]
+### 🗿 [Luung Bali Stone Carving](https://luungbali.fwh.is/)
 
-Brief description of your project - what it does and what technologies you used.
+A beautiful website for Luung Bali Stone Carving business showcasing traditional Balinese stone art and craftsmanship. Built with WordPress CMS for easy content management and responsive design.
+
+**Technologies:** WordPress, PHP, MySQL, HTML5, CSS3, JavaScript
 
 ### 🚀 [Project Name 2]
 
